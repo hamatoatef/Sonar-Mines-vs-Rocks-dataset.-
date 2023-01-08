@@ -13,3 +13,25 @@
 -The label associated with each record contains the letter R if the object is a rock and M if it is a mine (metal cylinder).
 
 -The numbers in the labels are in increasing order of aspect angle, but they do not encode the angle directly.
+
+## This Notebook will show basic examples of:
+
+### Data Handling
+Importing Data with Pandas Cleaning Data Exploring Data through Visualizations with Matplotlib
+
+### machine learning classifier
+
+naive_bayes
+
+Support Victor Machine
+
+LogisticRegression
+
+Decision Tree
+
+Ensemble Methods
+
+### Valuation and Model Evaluation Metrics
+
+.Grid Search
+.accurate
